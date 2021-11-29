@@ -21,7 +21,8 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    'PT. Modeloka Multi Kreatifindo'
+                                    Pleasure rationally encounter consequences
+                                    that extremely painful. Nor again is there
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
@@ -253,11 +254,11 @@ const Footer = () => {
                                     Copyright &copy; 2021 Made with{" "}
                                     <i className="icofont-heart-alt"></i> By{" "}
                                     <a
-                                        href="https://themeforest.net/user/codecarnival/portfolio"
+                                        href="https://modeloka.us"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        codecarnival
+                                        Modeloka Team
                                     </a>
                                     , All Rights Reserved
                                 </p>
