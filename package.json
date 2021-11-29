@@ -27,12 +27,6 @@
     "lint": "eslint --ignore-path .eslintignore . --ext js --ext jsx",
     "lint:fix": "yarn lint --fix"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
