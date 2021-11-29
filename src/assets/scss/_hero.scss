@@ -21,21 +21,21 @@
 
   .title {
     animation-name: fadeInUp;
-    animation-delay: 0.9s;
+    animation-delay: 0.1s;
   }
 
   .delay1 {
     animation-name: fadeInUp;
-    animation-delay: 1.5s;
+    animation-delay: 0.4s;
   }
   .delay2 {
     animation-name: fadeInUp;
-    animation-delay: 2s;
+    animation-delay: 0.7s;
   }
   .hero-img {
     img {
       animation-name: fadeInLeft;
-      animation-delay: 2.5s;
+      animation-delay: 1s;
     }
   }
 }
