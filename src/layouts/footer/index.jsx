@@ -21,8 +21,10 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    Pleasure rationally encounter consequences
-                                    that extremely painful. Nor again is there
+                                    <strong>PT. Modeloka Multi Kreatifindo</strong>
+                                </p>
+                                <p>
+                                    Jl.Lodaya No.32, Bandung
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
