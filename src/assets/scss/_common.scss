@@ -19,7 +19,7 @@
 }
 
 ::selection {
-  background: $primary;
+  background: #ff5492;
   color: $white;
   text-shadow: none;
 }
@@ -193,7 +193,7 @@ br {
   cursor: pointer;
   opacity: 0;
   visibility: hidden;
-  background-color: $primary;
+  background-color: #ff5492;
   background-size: 200% auto;
   background-position: left center;
   color: $white;
