@@ -21,7 +21,7 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    Pleasure modeloka encounter consequences
+                                    PT Modeloka Multi Kreatifindo
                                     that extremely painful. Nor again is there
                                 </p>
                                 <ul className="footer-social-links">
