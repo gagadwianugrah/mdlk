@@ -204,7 +204,7 @@ const Footer = () => {
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
                                 <p>
-                                    245 Southern Street, Apt. 147 New York, USA
+                                    Jl.Lodaya No.32, Bandung
                                 </p>
                                 <ul className="address">
                                     <li>
