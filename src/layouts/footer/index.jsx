@@ -21,7 +21,7 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    Pleasure rationally encounter consequences
+                                    Pleasure modeloka encounter consequences
                                     that extremely painful. Nor again is there
                                 </p>
                                 <ul className="footer-social-links">
