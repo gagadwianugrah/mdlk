@@ -15753,29 +15753,29 @@ label {
 .hero-slider .title {
   -webkit-animation-name: fadeInUp;
           animation-name: fadeInUp;
-  -webkit-animation-delay: 0.9s;
-          animation-delay: 0.9s;
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
 }
 
 .hero-slider .delay1 {
   -webkit-animation-name: fadeInUp;
           animation-name: fadeInUp;
-  -webkit-animation-delay: 1.5s;
-          animation-delay: 1.5s;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
 }
 
 .hero-slider .delay2 {
   -webkit-animation-name: fadeInUp;
           animation-name: fadeInUp;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s;
 }
 
 .hero-slider .hero-img img {
   -webkit-animation-name: fadeInLeft;
           animation-name: fadeInLeft;
-  -webkit-animation-delay: 2.5s;
-          animation-delay: 2.5s;
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s;
 }
 
 .hero-slide-content .title {
