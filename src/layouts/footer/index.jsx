@@ -204,7 +204,7 @@ const Footer = () => {
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
                                 <p>
-                                    Jl.Lodaya No.32, Bandung
+                                    245 Southern Street, Apt. 147 New York, USA
                                 </p>
                                 <ul className="address">
                                     <li>
@@ -218,7 +218,7 @@ const Footer = () => {
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="https://https://wa.me/18335646633"
+                                            href="https://wa.me/18335646633"
                                         >
                                             +1 833-564-MODE
                                         </a>
