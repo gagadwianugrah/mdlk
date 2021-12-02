@@ -21,7 +21,7 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    PT Modeloka Multi Kreatifindo
+                                    `PT.·Modeloka·Multi·Kreatifindo`
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
