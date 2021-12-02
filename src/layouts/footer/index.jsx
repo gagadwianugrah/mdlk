@@ -204,39 +204,31 @@ const Footer = () => {
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
                                 <p>
-                                    245 Southern Street, Apt. 147 New York, USA
+                                    Jl.Lodaya No.32, Bandung - Indonesia
                                 </p>
                                 <ul className="address">
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="tel:+12354569874"
+                                            href="https://wa.me/6281312531283"
                                         >
-                                            +12354 569 874
+                                            +62 813-1253-1283
                                         </a>
                                     </li>
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="tel:+98745612398"
+                                            href="https://https://wa.me/18335646633"
                                         >
-                                            +98745 612 398
+                                            +1 833-564-MODE
                                         </a>
                                     </li>
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="mailto:info@example.com"
+                                            href="mailto:support@modeloka.us"
                                         >
-                                            info@example.com
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            className="address-link"
-                                            href="mailto:info@example.com"
-                                        >
-                                            www.example.com
+                                            support@modeloka.us
                                         </a>
                                     </li>
                                 </ul>
@@ -252,13 +244,13 @@ const Footer = () => {
                             <div className="copyright-info text-center">
                                 <p>
                                     Copyright &copy; 2021 Made with{" "}
-                                    <i className="icofont-heart-alt"></i> By{" "}
+                                    <i className="icofont-heart-alt"></i> in{" "}
                                     <a
                                         href="https://modeloka.us"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        Modeloka Team
+                                        Bandung
                                     </a>
                                     , All Rights Reserved
                                 </p>
