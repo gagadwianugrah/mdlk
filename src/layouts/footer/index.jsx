@@ -21,8 +21,7 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    Pleasure rationally encounter consequences
-                                    that extremely painful. Nor again is there
+                                    PT. Modeloka Multi Kreatifindo
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
@@ -35,7 +34,7 @@ const Footer = () => {
                                     <li>
                                         <SocialIcon
                                             classOption="footer-social-link"
-                                            path="https://www.instagram.com/"
+                                            path="https://www.instagram.com/modeloka.official"
                                             icon="icofont-instagram"
                                         />
                                     </li>
@@ -49,7 +48,7 @@ const Footer = () => {
                                     <li>
                                         <SocialIcon
                                             classOption="footer-social-link"
-                                            path="https://www.whatsapp.com/"
+                                            path="https://wa.me/6281312531283"
                                             icon="icofont-whatsapp"
                                         />
                                     </li>
