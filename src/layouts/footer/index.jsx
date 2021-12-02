@@ -21,7 +21,8 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    PT Modeloka Multi Kreatifindo
+                                    Pleasure rationally encounter consequences
+                                    that extremely painful. Nor again is there
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
@@ -203,7 +204,7 @@ const Footer = () => {
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
                                 <p>
-                                    Jl.Lodaya No.32, Bandung
+                                    245 Southern Street, Apt. 147 New York, USA
                                 </p>
                                 <ul className="address">
                                     <li>
