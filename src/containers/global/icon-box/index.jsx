@@ -25,11 +25,6 @@ const IconBoxContainer = ({ classOption }) => {
                             painful. Nor again is there anyone who loves or pursues or
                             desires to obtain"
                         />
-                        <Button
-                            classOption="btn btn-lg btn-dark btn-hover-dark"
-                            text="Get Started"
-                            path="/about"
-                        />
                     </div>
 
                     <div className="col-12">
