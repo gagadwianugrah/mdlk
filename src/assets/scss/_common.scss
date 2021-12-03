@@ -19,7 +19,7 @@
 }
 
 ::selection {
-  background: #ff5492;
+  background: $primary;
   color: $white;
   text-shadow: none;
 }
@@ -170,7 +170,7 @@ br {
 
 .copyright-info {
   i {
-    color: #ff5492;
+    color: red;
   }
 }
 /*-------- Scroll To Top Style Css --------*/
@@ -193,7 +193,7 @@ br {
   cursor: pointer;
   opacity: 0;
   visibility: hidden;
-  background-color: #ff5492;
+  background-color: $primary;
   background-size: 200% auto;
   background-position: left center;
   color: $white;
