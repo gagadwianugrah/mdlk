@@ -39,7 +39,7 @@
             },
             {
                 "id": 2,
-                "className": "grid-item card-mt-75 mb-7",
+                "className": "grid-item mb-7",
                 "icon": "./images/feature/logo/2.png",
                 "title": "Creative Idea",
                 "excerpt": "Pleasure rationally encounter are extremely painful anyone who loves or pursues"
